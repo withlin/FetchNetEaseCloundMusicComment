@@ -6,7 +6,7 @@
 
 3.gulp label
 
-4.cd dist&&node app.js
+4.cd dist && node app.js
 
 5.打开浏览器“http://localhost:4000/content/music?id=186016&limit=100&offset=5”
 
